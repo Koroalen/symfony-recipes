@@ -1,6 +1,6 @@
 {
     "bundles": {
-        "Hero\\PaymentSystem\\PaymentSystemBundle\\PaymentSystemBundle": [
+        "Hero\\PaymentSystem\\PaymentSystemBundle\\HeroPaymentSystemBundle": [
             "all"
         ]
     },
