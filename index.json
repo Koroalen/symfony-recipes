@@ -8,7 +8,7 @@
     "recipe-conflicts": [],
     "versions": [],
     "branch": "master",
-    "is_contrib": true,
+    "is_contrib": false,
     "_links": {
         "repository": "github.com/Koroalen/symfony-recipes",
         "origin_template": "{package}:{version}@github.com/Koroalen/symfony-recipes:master",
