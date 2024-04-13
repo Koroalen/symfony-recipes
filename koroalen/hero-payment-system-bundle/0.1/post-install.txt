@@ -5,4 +5,4 @@
   * <fg=blue>Run</> your application:
     1. Check src/config/routes/payment_system.yaml to adjust bundle route prefix
 
-  * <fg=blue>Visi</> the documentation at <comment>https://github.com/Koroalen/hero-payment-system-bundle</>
+  * <fg=blue>Visit</> the documentation at <comment>https://github.com/Koroalen/hero-payment-system-bundle</>
