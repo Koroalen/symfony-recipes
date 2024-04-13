@@ -3,8 +3,6 @@
 <bg=blue;fg=white>              </>
 
   * <fg=blue>Run</> your application:
-    1. Change to the project directory
-    2. Execute the <comment>make serve</> command;
-    3. Browse to the <comment>http://localhost:8000/</> URL.
+    1. Check src/config/routes/payment_system.yaml to adjust bundle route prefix
 
-  * <fg=blue>Read</> the documentation at <comment>https://symfony.com/doc</>
+  * <fg=blue>Visi</> the documentation at <comment>https://github.com/Koroalen/hero-payment-system-bundle</>
