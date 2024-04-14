@@ -8,6 +8,6 @@
         "config/": "%CONFIG_DIR%/"
     },
     "copy-from-package": {
-        "config/routes/payment_system.yaml": "%CONFIG_DIR%/routes/hero_payment_system.yaml"
+        "config/routes/hero_payment_system.yaml": "%CONFIG_DIR%/routes/hero_payment_system.yaml"
     }
 }
