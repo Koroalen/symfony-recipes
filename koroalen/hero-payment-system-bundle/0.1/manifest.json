@@ -9,5 +9,12 @@
     },
     "copy-from-package": {
         "config/routes/hero_payment_system.yaml": "%CONFIG_DIR%/routes/hero_payment_system.yaml"
+    },
+    "composer-scripts": {
+        "cache:clear": "symfony-cmd",
+        "./bin/console payment:plugins-init paykeeper": "symfony-cmd"
     }
 }
+
+
+
