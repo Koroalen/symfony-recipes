@@ -12,7 +12,7 @@
     },
     "composer-scripts": {
         "cache:clear": "symfony-cmd",
-        "./bin/console payment:plugins-init paykeeper": "symfony-cmd"
+        "./bin/console payment:plugins-init paykeeper": "script"
     }
 }
 
